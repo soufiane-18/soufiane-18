@@ -1,0 +1,46 @@
+body,
+html{
+	width:100%;
+	height:100%;
+	font-family: 'IM Fell French Canon SC', serif;
+   background: url(laptop.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	font-size:3rem;
+	color:#fff;
+}
+
+.buffer{
+	height: 11rem;
+}
+
+hr{
+	border-color: #fff;
+	border-width: 3px;
+	max-width: 70px;
+}
+
+
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+}
+
+.btn-primary{
+	background-color: #9c27b0;
+	border-color: #9c27b0;
+}
+
+.btn-primary:hover{
+	background-color: #673ab7;
+	border-color: #673ab7;
+	border-width: 3px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
